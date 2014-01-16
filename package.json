@@ -1,0 +1,20 @@
+{
+  "name": "component-jade",
+  "version": "0.1.0",
+  "description": "A plugin to transpile Jade files to strings for the component builder.",
+  "keywords": [
+    "component",
+    "jade"
+  ],
+  "author": "nl_0 <nl.imbecile@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nl0/component-jade-static.git"
+  },
+  "dependencies": {
+    "debug": "0.7",
+    "jade": "*"
+  },
+  "main": "index.js"
+}
