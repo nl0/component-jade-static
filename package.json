@@ -1,5 +1,5 @@
 {
-  "name": "component-jade",
+  "name": "component-jade-static",
   "version": "0.1.0",
   "description": "A plugin to transpile Jade files to strings for the component builder.",
   "keywords": [
